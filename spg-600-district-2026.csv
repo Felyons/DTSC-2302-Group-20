@@ -1,0 +1,193 @@
+﻿# NC School Performance Grades — district list
+# District: Charlotte-Mecklenburg Schools (600), Southwest region
+# School year: 2025–26
+# Source: https://accrpt.tops.ncsu.edu/docs/spgdisag_datasets/
+# Data through 2025–26 · Data as of 2026-09-30
+# Grade carries the source value: A-F, or ALT / I / NA for a school that receives no grade.
+# GrowthDesignation carries the source value too: Exceeded / Met / NotMet. The dashboard prints NotMet as “Did not meet”; this file keeps the published key.
+SchoolCode,School,GradeSpan,SchoolYear,Grade,PerformanceScore,AchievementScore,GrowthScore,GrowthDesignation
+600300,Albemarle Road Elementary,0K-05,2025–26,C,61,55.5,84.8,Met
+600301,Albemarle Road Middle,06-08,2025–26,D,44,34.8,79.4,Met
+600399,Alexander Graham Middle,06-08,2025–26,D,52,50.4,59.8,NotMet
+600308,Allenbrook Elementary,PK-05,2025–26,B,72,68.2,89.6,Exceeded
+600302,Ardrey Kell High School,09-12,2025–26,A,92,90.7,97.2,Exceeded
+600311,Ashley Park PreK-8 School,PK-08,2025–26,C,58,48.8,93.3,Exceeded
+600313,Bailey Middle,06-08,2025–26,B,80,79.6,81.4,Met
+600314,Bain Elementary,PK-05,2025–26,B,83,82.1,86.1,Exceeded
+600437,Ballantyne Elementary,0K-05,2025–26,A,87,85.7,91.2,Exceeded
+600536,Ballantyne Ridge High School,09-12,2025–26,B,79,75.8,92.6,Exceeded
+600328,Barnette Elementary,PK-05,2025–26,B,73,69.4,89.7,Exceeded
+600369,Berewick Elementary,PK-05,2025–26,C,55,53.5,61.2,NotMet
+600319,Berryhill School,PK-08,2025–26,C,56,47.7,88.1,Exceeded
+600322,Beverly Woods Elementary,0K-05,2025–26,B,83,82.6,82.1,Met
+600335,Billingsville Elementary,0K-02,2025–26,C,61,,,
+600442,Blythe Elementary,PK-05,2025–26,B,74,69.4,91.0,Exceeded
+600329,Briarwood Academy,PK-05,2025–26,C,61,54.6,84.4,Met
+600489,Bruns Avenue Elementary,PK-05,2025–26,F,38,29.7,68.8,NotMet
+600361,Butler High School,09-12,2025–26,B,78,74.2,95.3,Exceeded
+600333,Carmel Middle,06-08,2025–26,C,58,59.1,53.8,NotMet
+600334,Cato Middle College High School,11-13,2025–26,A,95,93.4,,
+600498,Central Piedmont Early College,09-13,2025–26,A,94,92.9,96.5,Exceeded
+600336,Chantilly Montessori,PK-06,2025–26,B,79,78.5,80.7,Met
+600567,Char Eng Early College-UNCC,09-13,2025–26,A,93,93.6,90.4,Exceeded
+600316,Charles H. Parker Academic Center,0K-05,2025–26,C,61,58.8,68.2,NotMet
+600303,Charlotte East Language Academy,0K-08,2025–26,C,68,62.8,86.3,Exceeded
+600569,Charlotte Teacher Early College,09-13,2025–26,A,89,89.8,88.0,Exceeded
+600461,Charlotte-Mecklenburg Academy,0K-12,2025–26,ALT,,,,
+600499,Charlotte-Mecklenburg Virtual School,05-12,2025–26,C,68,69.0,64.0,NotMet
+600338,Clear Creek Elementary,PK-05,2025–26,C,66,62.5,81.8,Met
+600341,Cochrane Collegiate Academy,06-12,2025–26,D,51,41.1,90.7,Exceeded
+600344,Collinswood Language Academy,0K-08,2025–26,B,78,77.4,82.4,Met
+600345,Community House Middle,06-08,2025–26,A,86,85.3,90.3,Exceeded
+600346,Cornelius Elementary,0K-05,2025–26,B,80,79.5,80.9,Met
+600349,Cotswold Elementary,03-05,2025–26,C,61,59.1,67.8,NotMet
+600351,Coulwood STEM Academy,06-08,2025–26,B,70,64.0,93.5,Exceeded
+600353,Crestdale Middle,06-08,2025–26,B,74,71.4,82.0,Met
+600418,Croft Community School,PK-05,2025–26,C,69,65.1,84.4,Met
+600352,Crown Point Elementary,PK-05,2025–26,B,70,65.3,90.0,Exceeded
+600362,David Cox Road Elementary,PK-05,2025–26,D,46,42.6,59.4,NotMet
+600357,Davidson Elementary,0K-05,2025–26,A,90,89.9,92.2,Exceeded
+600365,Devonshire Elementary,0K-05,2025–26,D,51,41.3,88.4,Exceeded
+600519,Dilworth Elementary,PK-02,2025–26,A,85,,,
+600367,Dilworth Elementary School Latta Campus,03-05,2025–26,A,85,89.5,68.9,NotMet
+600475,Dorothy J Vaughan Academy at Parkside,PK-05,2025–26,C,68,65.6,75.4,Met
+600374,Druid Hills Academy,PK-08,2025–26,C,62,54.4,91.5,Exceeded
+600377,East Mecklenburg High School,09-12,2025–26,B,72,69.8,79.4,Met
+600379,Eastover Elementary,0K-05,2025–26,B,83,82.6,84.4,Met
+600381,Eastway Middle,06-08,2025–26,D,45,34.5,88.4,Exceeded
+600597,Elbert Edwin Waddell High School,09-12,2025–26,C,56,56.4,,
+600382,Elizabeth Lane Elementary,0K-05,2025–26,A,85,84.7,85.9,Exceeded
+600384,Elizabeth Traditional Elem,0K-05,2025–26,B,71,66.7,87.7,Exceeded
+600383,Elon Park Elementary,0K-05,2025–26,A,87,87.4,83.2,Met
+600385,Endhaven Elementary,PK-05,2025–26,B,81,77.9,91.5,Exceeded
+600596,Esperanza Global Academy,PK-05,2025–26,C,60,55.1,80.7,Met
+600368,First Ward Creative Arts Middle School,06-08,2025–26,B,80,78.5,84.8,Met
+600394,Francis Bradley Middle,06-08,2025–26,C,58,59.9,52.2,NotMet
+600397,Garinger High School,09-12,2025–26,C,56,49.6,83.0,Met
+600468,Gov's Village STEM (Lower),PK-04,2025–26,D,52,47.2,73.4,Met
+600429,Gov's Village STEM (Upper),05-08,2025–26,D,50,45.3,68.2,NotMet
+600558,Grand Oak Elementary,PK-05,2025–26,A,91,90.0,94.5,Exceeded
+600398,Greenway Park Elementary,PK-05,2025–26,C,58,52.1,81.0,Met
+600425,Grove Park Elementary School,PK-05,2025–26,D,52,45.8,77.6,Met
+600405,Harding University High School,09-12,2025–26,D,52,50.7,55.1,NotMet
+600404,Harper Middle College High,11-13,2025–26,A,95,92.9,,
+600406,Hawk Ridge Elementary,PK-05,2025–26,A,91,90.5,92.8,Exceeded
+600386,Hawthorne Academy of Health Sciences,09-12,2025–26,B,84,81.1,93.6,Exceeded
+600410,Hickory Grove Elementary,PK-05,2025–26,C,60,53.2,86.8,Exceeded
+600412,Hidden Valley Elementary,PK-05,2025–26,D,41,36.3,59.7,NotMet
+600411,Highland Creek Elementary,PK-05,2025–26,B,78,75.0,89.3,Exceeded
+600413,Highland Mill Montessori,PK-06,2025–26,B,82,83.3,77.9,Met
+600414,Highland Renaissance Academy,PK-05,2025–26,D,50,45.2,68.1,NotMet
+600415,Hopewell High School,09-12,2025–26,B,76,71.2,93.1,Exceeded
+600416,Hornets Nest Elementary,PK-05,2025–26,D,48,41.6,74.8,Met
+600420,Huntersville Elementary,0K-05,2025–26,B,82,80.7,85.4,Exceeded
+600422,Huntingtowne Farms Elementary,PK-05,2025–26,D,52,45.9,77.9,Met
+600424,Idlewild Elementary,PK-05,2025–26,C,67,61.9,89.4,Exceeded
+600426,Independence High School,09-12,2025–26,B,72,65.1,100.0,Exceeded
+600571,Irwin Academic Center,0K-05,2025–26,B,83,84.1,80.4,Met
+600478,J. H. Gunn Elementary,0K-05,2025–26,C,60,54.0,85.3,Exceeded
+600305,J. M. Alexander Middle,06-08,2025–26,D,44,40.4,59.1,NotMet
+600433,J.V. Washam Elementary,0K-05,2025–26,A,85,84.4,88.3,Exceeded
+600428,James Martin Middle,06-08,2025–26,D,47,38.0,81.3,Met
+600431,Jay M. Robinson Middle,06-08,2025–26,A,89,87.7,93.2,Exceeded
+600432,Joseph W Grier Academy,PK-05,2025–26,C,58,49.9,88.4,Exceeded
+600592,Julius L. Chambers High School,09-12,2025–26,C,61,55.3,84.9,Met
+600434,Kennedy Middle,06-08,2025–26,C,59,52.1,84.3,Met
+600387,Knights View Elementary School,PK-05,2025–26,A,88,89.3,83.0,Met
+600436,Lake Wylie Elementary,PK-05,2025–26,C,66,60.5,88.8,Exceeded
+600438,Lansdowne Elementary,0K-05,2025–26,B,76,73.7,86.8,Exceeded
+600408,Lawrence Orr Elementary,PK-05,2025–26,C,65,59.2,89.4,Exceeded
+600440,Lebanon Road Elementary,PK-05,2025–26,C,59,54.8,74.2,Met
+600443,Levine Middle College High Sch,11-13,2025–26,A,100,99.6,,
+600435,Lincoln Heights Montessori,PK-06,2025–26,B,79,78.1,83.5,Met
+600444,Long Creek Elementary,0K-05,2025–26,C,64,56.0,93.8,Exceeded
+600446,Mallard Creek Elementary,PK-05,2025–26,C,69,64.3,90.1,Exceeded
+600445,Mallard Creek High School,09-12,2025–26,B,74,68.1,96.4,Exceeded
+600366,Marie G Davis School,0K-08,2025–26,F,39,33.4,61.6,NotMet
+600448,"Martin Luther King, Jr Middle",06-08,2025–26,F,37,27.3,73.7,Met
+600447,Matthews Elementary,0K-05,2025–26,B,83,81.6,88.6,Exceeded
+600449,McAlpine Elementary,PK-05,2025–26,B,81,83.1,70.9,Met
+600450,McClintock Middle,06-08,2025–26,C,61,53.4,92.5,Exceeded
+600451,McKee Road Elementary,PK-05,2025–26,B,84,86.9,74.0,Met
+600594,Merancas Middle College-CPCC,11-13,2025–26,A,98,96.9,,
+600453,Merry Oaks International Academy,PK-05,2025–26,D,51,40.6,92.5,Exceeded
+600454,Metro School,PK-12,2025–26,ALT,,,,
+600364,Military and Global Leadership,09-12,2025–26,A,95,95.0,,
+600595,Mint Hill Elementary School,PK-05,2025–26,C,59,56.0,69.6,NotMet
+600455,Mint Hill Middle,06-08,2025–26,C,61,61.2,59.1,NotMet
+600459,Montclaire Elementary,PK-05,2025–26,C,62,55.8,88.9,Exceeded
+600462,Mountain Island Lake Academy,PK-08,2025–26,C,59,52.0,88.0,Exceeded
+600466,Myers Park High School,09-12,2025–26,B,81,77.7,96.6,Exceeded
+600464,Myers Park Traditional Elem,0K-05,2025–26,B,83,83.5,81.2,Met
+600471,Nations Ford Elementary,PK-05,2025–26,D,49,41.1,82.3,Met
+600474,Newell Elementary,0K-05,2025–26,D,50,42.5,81.3,Met
+600306,North Academy of World Languages,0K-08,2025–26,B,84,82.2,92.0,Exceeded
+600480,North Mecklenburg High School,09-12,2025–26,B,71,66.4,91.7,Exceeded
+600479,Northeast Middle,06-08,2025–26,D,53,45.5,85.3,Exceeded
+600481,Northridge Middle,06-08,2025–26,C,60,52.0,90.7,Exceeded
+600482,Northwest School of the Arts,09-12,2025–26,A,93,91.8,99.8,Exceeded
+600485,Oakdale Elementary,PK-05,2025–26,C,59,51.4,91.6,Exceeded
+600484,Oakhurst STEAM Academy,0K-05,2025–26,C,69,64.1,90.1,Exceeded
+600488,Oaklawn Language Academy,0K-08,2025–26,C,68,65.3,76.7,Met
+600491,Olde Providence Elementary,0K-05,2025–26,A,89,88.8,92.2,Exceeded
+600490,Olympic High School,09-12,2025–26,C,67,61.2,91.4,Exceeded
+600327,Palisades High School,09-12,2025–26,B,73,67.8,94.0,Exceeded
+600493,Palisades Park Elementary,0K-05,2025–26,B,76,74.0,84.9,Met
+600494,Paw Creek Elementary,PK-05,2025–26,B,80,77.2,90.6,Exceeded
+600496,Phillip O Berry Academy of Technology,09-12,2025–26,B,79,75.4,93.6,Exceeded
+600497,Piedmont Middle School,06-08,2025–26,B,78,75.2,90.1,Exceeded
+600500,Pineville Elementary,0K-05,2025–26,C,67,67.5,64.6,NotMet
+600501,Pinewood Elementary,PK-05,2025–26,D,54,48.2,77.8,Met
+600503,Piney Grove Elementary,PK-05,2025–26,C,61,56.5,77.4,Met
+600392,Polo Ridge Elementary,PK-05,2025–26,A,90,90.8,86.4,Exceeded
+600508,Providence High School,09-12,2025–26,A,95,93.4,100.0,Exceeded
+600507,Providence Spring Elementary,0K-05,2025–26,A,92,94.0,84.2,Met
+600509,Quail Hollow Middle,06-08,2025–26,D,50,46.8,64.0,NotMet
+600512,Rama Road Elementary,PK-05,2025–26,C,56,54.5,62.2,NotMet
+600513,Randolph Middle,06-08,2025–26,C,67,70.6,50.8,NotMet
+600514,Ranson Middle,06-08,2025–26,D,41,30.0,85.3,Exceeded
+600304,Rea Farms STEAM Academy,0K-08,2025–26,A,87,87.6,82.1,Met
+600516,Reedy Creek Elementary,PK-05,2025–26,C,64,57.7,86.8,Exceeded
+600517,Reid Park Academy,PK-05,2025–26,D,54,45.2,87.4,Exceeded
+600515,Renaissance West STEAM Academy,PK-08,2025–26,C,57,51.3,78.0,Met
+600518,Ridge Road Middle,06-08,2025–26,D,49,45.0,65.6,NotMet
+600590,River Gate Elementary,0K-05,2025–26,B,72,68.6,85.3,Exceeded
+600463,River Oaks Academy,PK-05,2025–26,C,57,49.5,87.9,Exceeded
+600457,Rocky River High School,09-12,2025–26,C,60,54.8,82.2,Met
+600520,Sedgefield Middle,06-08,2025–26,C,62,62.0,64.0,NotMet
+600492,Sedgefield Montessori,PK-06,2025–26,A,85,85.0,82.7,Met
+600522,Selwyn Elementary,0K-05,2025–26,A,88,88.9,83.1,Met
+600527,Shamrock Gardens Elementary,PK-05,2025–26,B,76,72.2,89.3,Exceeded
+600530,Sharon Elementary,0K-05,2025–26,B,84,83.8,84.2,Met
+600534,Smithfield Elementary,PK-05,2025–26,B,74,72.0,84.3,Met
+600532,South Academy of International Languages,0K-08,2025–26,B,76,74.8,80.5,Met
+600537,South Charlotte Middle,06-08,2025–26,B,80,79.5,81.7,Met
+600535,South Mecklenburg High School,09-12,2025–26,B,72,70.7,76.8,Met
+600483,South Pine Academy,PK-05,2025–26,C,56,46.8,90.5,Exceeded
+600538,Southwest Middle School,06-08,2025–26,D,51,44.9,77.4,Met
+600545,Starmount Academy of Excellence,PK-05,2025–26,D,48,39.5,83.7,Met
+600546,Statesville Road Elementary,PK-05,2025–26,C,62,56.1,86.1,Exceeded
+600549,Steele Creek Elementary,PK-05,2025–26,C,61,56.3,81.8,Met
+600550,Sterling Elementary,PK-05,2025–26,D,53,44.4,89.0,Exceeded
+600521,Stoney Creek Elementary,0K-05,2025–26,C,60,52.4,91.6,Exceeded
+600553,Thomasboro Academy,0K-08,2025–26,D,48,40.7,75.1,Met
+600557,Torrence Creek Elementary,0K-05,2025–26,B,75,71.5,86.6,Exceeded
+600562,Tuckaseegee Elementary,0K-05,2025–26,B,70,65.7,87.6,Exceeded
+600439,Turning Point Academy,09-12,2025–26,ALT,,,,
+600598,Turning Point Middle,06-08,2025–26,ALT,,,,
+600566,University Meadows Elementary,PK-05,2025–26,C,62,54.4,90.1,Exceeded
+600565,University Park Creative Arts,0K-05,2025–26,C,67,62.6,82.3,Met
+600593,Villa Heights Elementary,0K-05,2025–26,D,52,50.0,61.0,NotMet
+600574,Walter G. Byers School,PK-08,2025–26,D,40,33.5,66.9,NotMet
+600576,West Charlotte High School,09-12,2025–26,C,65,58.1,92.9,Exceeded
+600579,West Mecklenburg High School,09-12,2025–26,C,58,54.6,70.2,Met
+600577,Westerly Hills Academy,PK-05,2025–26,C,61,55.7,81.0,Met
+600318,Whitewater Academy,PK-05,2025–26,D,48,45.9,58.8,NotMet
+600317,Whitewater Middle,06-08,2025–26,D,47,43.9,60.9,NotMet
+600312,William Amos Hough High,09-12,2025–26,A,88,87.3,90.3,Exceeded
+600582,Williams Secondary Montessori,07-12,2025–26,A,85,86.0,79.7,Met
+600583,Wilson STEM Academy,06-08,2025–26,D,48,37.8,87.1,Exceeded
+600586,Winding Springs Elementary,PK-05,2025–26,C,58,51.8,82.8,Met
+600587,Windsor Park Elementary,PK-05,2025–26,C,62,60.4,70.1,Met
+600588,Winget Park Elementary,PK-05,2025–26,B,77,75.3,84.4,Met
+600589,Winterfield Elementary,PK-05,2025–26,C,56,46.8,94.4,Exceeded
